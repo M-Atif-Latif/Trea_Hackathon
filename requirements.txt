@@ -12,3 +12,4 @@ keras>=2.11.0
 ta>=0.10.2
 tensorflow>=2.11.0
 pymilvus>=2.4.0
+kaleido>=0.2.1
