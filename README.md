@@ -76,6 +76,7 @@ AlphaQuant Pro is a powerful, interactive financial analytics application built 
 [![Yahoo Finance](https://img.shields.io/badge/Data-Yahoo%20Finance-1d7eea?style=for-the-badge&logo=yahoo)](https://finance.yahoo.com/)
 [![Novita AI](https://img.shields.io/badge/AI-Novita-f39c12?style=for-the-badge&logo=OpenAI)](https://novita.ai/)
 [![Zilliz](https://img.shields.io/badge/Vector%20DB-Zilliz-00bfae?style=for-the-badge&logo=databricks)](https://zilliz.com/)
+[![Trae IDE](https://img.shields.io/badge/Developed%20with-Trae%20IDE-6c5ce7?style=for-the-badge&logo=visualstudiocode)](https://trae.ai/)
 
 ---
 
