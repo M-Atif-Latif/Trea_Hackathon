@@ -2519,3 +2519,4 @@ st.markdown("""
     <p style="font-size: 0.8rem;">Data provided by Yahoo Finance • AI powered by Novita • Vector DB by Zilliz • Updated at {}</p>
 </div>
 """.format(dt.datetime.now().strftime("%Y-%m-%d %H:%M:%S")), unsafe_allow_html=True)
+# Display live market status
